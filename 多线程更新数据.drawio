@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T07:32:56.874Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ElRxKdsZHoQOsyp1FKqz" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T07:37:12.264Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KiCCzaRaW90XMhe0Au9B" version="22.1.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1851" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
         <mxCell id="02b0DI_633Z7Wo2SVN0X-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="02b0DI_633Z7Wo2SVN0X-9" target="02b0DI_633Z7Wo2SVN0X-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="02b0DI_633Z7Wo2SVN0X-9" value="静态代码&lt;br&gt;当前应用里面只会有一份，只要任意一个任务关闭缓存刷新线程，那么久不会在刷新缓存了" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="02b0DI_633Z7Wo2SVN0X-9" value="静态代码&lt;br&gt;当前应用里面只会有一份，只要任意一个任务关闭缓存刷新线程，那么此应用就不会在刷新缓存了" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02b0DI_633Z7Wo2SVN0X-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="02b0DI_633Z7Wo2SVN0X-10" target="02b0DI_633Z7Wo2SVN0X-9">
