@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T12:17:03.877Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="w1XDw5-gr36naL783BXc" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T12:31:21.550Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Hu-QIBOEDm5GpLKRb_eg" version="24.6.4" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
-    <mxGraphModel dx="1266" dy="3523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="3489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -488,7 +488,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Yy7cPz-D2KHI5b2dax2-263" value="终端款项和移动自有业务融合" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="m8eDH4o8tLsZGcGZ9GFc-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-263" target="m8eDH4o8tLsZGcGZ9GFc-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-263" value="终端和移动自有业务融合" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="342.5" y="790" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-271" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1Yy7cPz-D2KHI5b2dax2-264" target="1Yy7cPz-D2KHI5b2dax2-270" edge="1">
@@ -540,7 +543,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Yy7cPz-D2KHI5b2dax2-286" value="终端款项和移动自有业务融合" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="m8eDH4o8tLsZGcGZ9GFc-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.496;entryY=0.86;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-286" target="m8eDH4o8tLsZGcGZ9GFc-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-286" value="终端和移动自有业务融合" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="342.5" y="1000" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-287" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1Yy7cPz-D2KHI5b2dax2-288" target="1Yy7cPz-D2KHI5b2dax2-292" edge="1">
@@ -574,6 +582,9 @@
         </mxCell>
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-296" value="待确认" style="whiteSpace=wrap;html=1;fillColor=#FFD966;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="942.5" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m8eDH4o8tLsZGcGZ9GFc-73" value="终端的钱其实营业厅或者代理商提货的时候已经将钱给移动公司了，所以售卖终端的钱，应该归属营业厅或者代理商" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;size=0.3;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="880" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
