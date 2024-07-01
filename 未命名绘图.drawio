@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T09:49:47.842Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="W9LMpop8_qrHOb4f3oAP" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T09:58:30.930Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YJdUWu15SSd3t_lizE3j" version="24.6.4" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
-    <mxGraphModel dx="1026" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="71" value="泛终端支付" style="rounded=1;fontStyle=1;fillColor=#FFD966;strokeColor=none" parent="1" vertex="1">
+        <mxCell id="71" value="泛终端支付&#xa;收钱到商户自己账户上" style="rounded=1;fontStyle=1;fillColor=#FFD966;strokeColor=none" parent="1" vertex="1">
           <mxGeometry x="152.5" y="20" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-110" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=none;" vertex="1" parent="1">
@@ -281,7 +281,7 @@
             <mxPoint x="1762.5" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Yy7cPz-D2KHI5b2dax2-229" value="boss系统自有业务支付" style="rounded=1;fontStyle=1;fillColor=#FFD966;strokeColor=none" vertex="1" parent="1">
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-229" value="boss系统自有业务支付&#xa;钱收到云南移动自己账户上面" style="rounded=1;fontStyle=1;fillColor=#FFD966;strokeColor=none" vertex="1" parent="1">
           <mxGeometry x="772.5" y="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-230" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=none;" vertex="1" parent="1">
