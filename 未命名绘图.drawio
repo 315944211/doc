@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T10:58:53.819Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Yh0Mg4rmkjBsxewDuyc7" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T11:03:25.958Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="MtHI_9qPFQqNnEr6oiE4" version="24.6.4" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1434" dy="3699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
@@ -520,6 +520,9 @@
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-270" value="走泛终端支付流程" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFD966;" vertex="1" parent="1">
           <mxGeometry x="742.5" y="740" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-295" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-272" target="1Yy7cPz-D2KHI5b2dax2-294">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-272" value="走代理商79存折和代理商交互？支付方式可以按照配置，配置维度待定" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#D80073;" vertex="1" parent="1">
           <mxGeometry x="742.5" y="840" width="120" height="60" as="geometry" />
         </mxCell>
@@ -566,11 +569,20 @@
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-291" value="移动自有订单（钱需要给到移动，话费收取）" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="542.5" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-297" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-292" target="1Yy7cPz-D2KHI5b2dax2-296">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-292" value="走泛终端支付流程" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFD966;" vertex="1" parent="1">
           <mxGeometry x="742.5" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-293" value="&lt;span style=&quot;font-weight: 700; text-wrap: nowrap;&quot;&gt;boss系统自有业务支付&lt;br&gt;&lt;/span&gt;微信、支付宝、现金、银行转账" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#D80073;" vertex="1" parent="1">
           <mxGeometry x="742.5" y="1050" width="127.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-294" value="待确认" style="whiteSpace=wrap;html=1;fillColor=#D80073;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="942.5" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-296" value="待确认" style="whiteSpace=wrap;html=1;fillColor=#FFD966;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="942.5" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
