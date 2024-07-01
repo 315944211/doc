@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T10:07:38.114Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="m2Y8tCX6ucoXaJ4uHg-Q" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T10:45:42.061Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="et1Ybs153IH7iXiwdeZK" version="24.6.4" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1434" dy="3699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
@@ -473,6 +473,104 @@
             <mxPoint x="1177.5" y="590" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-265" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-263" target="1Yy7cPz-D2KHI5b2dax2-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-267" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-263" target="1Yy7cPz-D2KHI5b2dax2-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-268" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-263" target="1Yy7cPz-D2KHI5b2dax2-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-269" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-263" target="1Yy7cPz-D2KHI5b2dax2-266">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-274" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-263" target="1Yy7cPz-D2KHI5b2dax2-266">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-275" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-263" target="1Yy7cPz-D2KHI5b2dax2-266">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-278" value="代理商" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1Yy7cPz-D2KHI5b2dax2-275">
+          <mxGeometry x="-0.5867" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-263" value="终端款项和移动自有业务融合" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="910" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-271" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-264" target="1Yy7cPz-D2KHI5b2dax2-270">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-264" value="终端订单（钱需要扫码到终端代理商户）" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-273" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-266" target="1Yy7cPz-D2KHI5b2dax2-272">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-277" value="代理商" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1Yy7cPz-D2KHI5b2dax2-273">
+          <mxGeometry x="0.025" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-266" value="移动自有订单（钱需要给到移动，话费收取）" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-270" value="走泛终端支付流程" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-272" value="走代理商79存折和代理商交互" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-279" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-286" target="1Yy7cPz-D2KHI5b2dax2-288">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-280" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-286" target="1Yy7cPz-D2KHI5b2dax2-288">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-281" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-286" target="1Yy7cPz-D2KHI5b2dax2-288">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-286" target="1Yy7cPz-D2KHI5b2dax2-291">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-283" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-286" target="1Yy7cPz-D2KHI5b2dax2-291">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-284" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-286" target="1Yy7cPz-D2KHI5b2dax2-291">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-285" value="自有营业厅" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1Yy7cPz-D2KHI5b2dax2-284">
+          <mxGeometry x="-0.5867" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-286" value="终端款项和移动自有业务融合" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-287" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-288" target="1Yy7cPz-D2KHI5b2dax2-292">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-288" value="终端订单（钱需要扫码到终端代理商商户）" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-289" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-291" target="1Yy7cPz-D2KHI5b2dax2-293">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-290" value="营业厅" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1Yy7cPz-D2KHI5b2dax2-289">
+          <mxGeometry x="0.025" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-291" value="移动自有订单（钱需要给到移动，话费收取）" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-292" value="走泛终端支付流程" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-293" value="微信、支付宝、现金、银行转账" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
