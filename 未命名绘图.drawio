@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T08:40:01.901Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="gMKag_gCKMm-OqP1Tg_3" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T07:26:01.334Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="umQApIa-XG29Gky1VhTh" version="24.6.4" type="github" pages="2">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
-    <mxGraphModel dx="1026" dy="3489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
+    <mxGraphModel dx="943" dy="3307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -497,7 +497,7 @@
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-271" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1Yy7cPz-D2KHI5b2dax2-264" target="1Yy7cPz-D2KHI5b2dax2-270" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1Yy7cPz-D2KHI5b2dax2-264" value="终端订单（钱需要扫码到终端代理商户）" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-264" value="终端订单（钱需要扫码到终端代理商户1599元）" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="542.5" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-273" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1Yy7cPz-D2KHI5b2dax2-266" target="1Yy7cPz-D2KHI5b2dax2-272" edge="1">
@@ -508,7 +508,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Yy7cPz-D2KHI5b2dax2-266" value="移动自有订单（钱需要给到移动，预存200送200）" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-266" value="移动自有订单（钱需要给到移动，预存200元送200元）" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="542.5" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-270" value="走泛终端支付流程" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFD966;" parent="1" vertex="1">
@@ -580,12 +580,20 @@
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-294" value="&lt;div&gt;做成可配置，目前暂时只配置79存折&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#D80073;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="942.5" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Yy7cPz-D2KHI5b2dax2-296" value="已经确认现在自有营业厅已经存在这种方式了" style="whiteSpace=wrap;html=1;fillColor=#FFD966;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="1Yy7cPz-D2KHI5b2dax2-296" value="已经确认现在自有营业厅已经存在这种方式了&lt;div&gt;分两次二维码展示&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFD966;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="942.5" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m8eDH4o8tLsZGcGZ9GFc-73" value="终端的钱其实营业厅或者代理商提货的时候已经将钱给终端公司了，所以售卖终端的钱，应该归属营业厅或者代理商" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;size=0.3;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="322.5" y="880" width="140" height="100" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8Ax1dQd_HPw9nHr5B4px" name="第 2 页">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
