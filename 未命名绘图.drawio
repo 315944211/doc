@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T07:40:54.136Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="h7tMDPTZfRKHzMChgbp-" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-11T17:08:15.641Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="w9eFrbrxO7UuJMWqVOrP" version="24.6.4" type="github" pages="2">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
-    <mxGraphModel dx="1179" dy="3413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1266" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="71" value="泛终端支付&#xa;比如：收钱到商户自己账户上大关县黄连河商厦沟通100营业厅（终端公司）委托加盟外包厅" style="rounded=1;fontStyle=1;fillColor=#FFD966;strokeColor=none" parent="1" vertex="1">
-          <mxGeometry x="120" y="-30" width="490" height="80" as="geometry" />
+          <mxGeometry x="120" width="490" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-110" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="352.5" y="210" width="10" height="40" as="geometry" />
@@ -237,13 +237,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-220" value="CRM/BOSS/和生活" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
-          <mxGeometry x="722.5" y="40" width="105" height="50" as="geometry" />
+          <mxGeometry x="722.5" y="60" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-221" value="" style="fillColor=#CC4125;strokeColor=#660000" parent="1" vertex="1">
           <mxGeometry x="912.5" y="160" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-222" value="支付中心（2017年版本）" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
-          <mxGeometry x="865" y="40" width="105" height="50" as="geometry" />
+          <mxGeometry x="865" y="60" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-223" value="" style="edgeStyle=none;endArrow=none;dashed=1" parent="1" source="1Yy7cPz-D2KHI5b2dax2-222" target="1Yy7cPz-D2KHI5b2dax2-221" edge="1">
           <mxGeometry x="272.3350694444445" y="165" width="100" height="100" as="geometry">
@@ -282,7 +282,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-229" value="boss系统自有业务支付&#xa;比如：中国移动集团云南公司" style="rounded=1;fontStyle=1;fillColor=#D80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="720" y="-30" width="450" height="60" as="geometry" />
+          <mxGeometry x="720" y="5" width="450" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-230" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="922.5" y="190" width="10" height="40" as="geometry" />
@@ -456,7 +456,7 @@
           <mxGeometry x="1127.5" y="570" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-261" value="统一支付平台" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
-          <mxGeometry x="1070" y="40" width="105" height="50" as="geometry" />
+          <mxGeometry x="1065" y="60" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1Yy7cPz-D2KHI5b2dax2-262" value="" style="edgeStyle=none;endArrow=none;dashed=1;" parent="1" edge="1">
           <mxGeometry x="376.5711805555559" y="339.6971450617284" width="100" height="100" as="geometry">
