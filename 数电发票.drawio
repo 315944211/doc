@@ -40,11 +40,43 @@
         <mxCell id="4yRRPJPeIOva5o0zUQRg-13" value="发票预览&lt;br&gt;按照默认规则进行发票合并以及发票标记" style="whiteSpace=wrap;html=1;fontSize=10;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="450" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4yRRPJPeIOva5o0zUQRg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4yRRPJPeIOva5o0zUQRg-15" target="4yRRPJPeIOva5o0zUQRg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4yRRPJPeIOva5o0zUQRg-15" value="AM.invoice.note.queryInvoicePreview&lt;br&gt;里面要修改" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4yRRPJPeIOva5o0zUQRg-17" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;增加数电发票标记参数&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;DIGITAL_ELECTRONIC=1&lt;/span&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
           <mxGeometry x="850" y="100" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4yRRPJPeIOva5o0zUQRg-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4yRRPJPeIOva5o0zUQRg-19" target="4yRRPJPeIOva5o0zUQRg-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4yRRPJPeIOva5o0zUQRg-19" value="提交开票申请&lt;br&gt;AM.invoice.note.submitInvoiceApply&lt;br&gt;保存数电发票标记、建筑类发票标记" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="200" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4yRRPJPeIOva5o0zUQRg-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4yRRPJPeIOva5o0zUQRg-21" target="4yRRPJPeIOva5o0zUQRg-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4yRRPJPeIOva5o0zUQRg-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4yRRPJPeIOva5o0zUQRg-21" target="4yRRPJPeIOva5o0zUQRg-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4yRRPJPeIOva5o0zUQRg-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4yRRPJPeIOva5o0zUQRg-21" target="4yRRPJPeIOva5o0zUQRg-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="350" />
+              <mxPoint x="170" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4yRRPJPeIOva5o0zUQRg-21" value="审批通过&lt;div&gt;AM.invoice.approval.invoiceApplyApproved&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="320" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4yRRPJPeIOva5o0zUQRg-23" value="发票开具工单" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4yRRPJPeIOva5o0zUQRg-26" value="发票后置工单" style="whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
