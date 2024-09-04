@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="第 1 页" id="3UAAMPOmaUktBNUP9fB0">
-    <mxGraphModel dx="1026" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1266" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,11 +24,11 @@
         <mxCell id="-Jz-nbpqpT1DS3PpgJbj-8" value="根据销售方方判断" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="250" y="190" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-Jz-nbpqpT1DS3PpgJbj-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Jz-nbpqpT1DS3PpgJbj-10" target="-Jz-nbpqpT1DS3PpgJbj-15">
+        <mxCell id="-Jz-nbpqpT1DS3PpgJbj-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Jz-nbpqpT1DS3PpgJbj-10" target="-Jz-nbpqpT1DS3PpgJbj-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Jz-nbpqpT1DS3PpgJbj-10" value="数电发票预览" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="390" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Jz-nbpqpT1DS3PpgJbj-13" value="税控发票预览" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="230" y="330" width="120" height="60" as="geometry" />
@@ -37,10 +37,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Jz-nbpqpT1DS3PpgJbj-15" value="开具申请提交" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="590" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Jz-nbpqpT1DS3PpgJbj-17" value="拦截发票实例表&lt;div&gt;如果是数电的增加标记、如果是专票拦截流程{IS_PAPER}==&#39;1&#39; 修改成电子票&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="790" y="200" width="250" height="60" as="geometry" />
+          <mxGeometry x="880" y="200" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Jz-nbpqpT1DS3PpgJbj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.408;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Jz-nbpqpT1DS3PpgJbj-13" target="-Jz-nbpqpT1DS3PpgJbj-15">
           <mxGeometry relative="1" as="geometry" />
@@ -122,10 +122,16 @@
           <mxGeometry x="830" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Jz-nbpqpT1DS3PpgJbj-52" value="开具结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="630" y="630" width="100" height="60" as="geometry" />
+          <mxGeometry x="580" y="630" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Jz-nbpqpT1DS3PpgJbj-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Jz-nbpqpT1DS3PpgJbj-32" target="-Jz-nbpqpT1DS3PpgJbj-52">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Jz-nbpqpT1DS3PpgJbj-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Jz-nbpqpT1DS3PpgJbj-56" target="-Jz-nbpqpT1DS3PpgJbj-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Jz-nbpqpT1DS3PpgJbj-56" value="发票合并拆分规则" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
