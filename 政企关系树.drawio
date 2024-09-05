@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1PPZVd8FC6KASMj7UccT-1" value="中国移动云南公司" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="325" y="70" width="155" height="60" as="geometry" />
+          <mxGeometry x="336" y="70" width="155" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1PPZVd8FC6KASMj7UccT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1PPZVd8FC6KASMj7UccT-2" target="1PPZVd8FC6KASMj7UccT-6">
           <mxGeometry relative="1" as="geometry" />
@@ -17,19 +17,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1PPZVd8FC6KASMj7UccT-2" value="昆明公司" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="240" y="200" width="147.5" height="70" as="geometry" />
+          <mxGeometry x="250" y="200" width="137.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1PPZVd8FC6KASMj7UccT-4" value="文山公司" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="430" y="200" width="147.5" height="70" as="geometry" />
+          <mxGeometry x="430" y="200" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1PPZVd8FC6KASMj7UccT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.569;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1PPZVd8FC6KASMj7UccT-1" target="1PPZVd8FC6KASMj7UccT-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1PPZVd8FC6KASMj7UccT-6" value="五华区公司" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="130" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1PPZVd8FC6KASMj7UccT-8" value="西山区公司" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="360" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
