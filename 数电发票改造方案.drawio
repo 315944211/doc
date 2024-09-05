@@ -102,6 +102,11 @@
         <mxCell id="-Jz-nbpqpT1DS3PpgJbj-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Jz-nbpqpT1DS3PpgJbj-40" target="-Jz-nbpqpT1DS3PpgJbj-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SmkMkKPDx234Q4cf2KP6-1" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Jz-nbpqpT1DS3PpgJbj-50">
+          <mxGeometry x="-0.2667" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-Jz-nbpqpT1DS3PpgJbj-40" value="是否开具" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="850" y="490" width="80" height="80" as="geometry" />
         </mxCell>
