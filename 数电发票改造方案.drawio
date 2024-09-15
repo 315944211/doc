@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="第 1 页" id="3UAAMPOmaUktBNUP9fB0">
-    <mxGraphModel dx="1266" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1266" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,7 +147,7 @@
         <mxCell id="nVx7t4qCiavf7SBLXbq6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nVx7t4qCiavf7SBLXbq6-2" target="nVx7t4qCiavf7SBLXbq6-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nVx7t4qCiavf7SBLXbq6-2" value="6.7数字化电子红字确认单申请" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nVx7t4qCiavf7SBLXbq6-2" value="6.7数字化电子红字确认单申请" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="220" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nVx7t4qCiavf7SBLXbq6-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nVx7t4qCiavf7SBLXbq6-4" target="nVx7t4qCiavf7SBLXbq6-9">
@@ -175,25 +175,25 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nVx7t4qCiavf7SBLXbq6-4" value="确认单状态" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nVx7t4qCiavf7SBLXbq6-4" value="确认单状态" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="410" y="810" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nVx7t4qCiavf7SBLXbq6-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nVx7t4qCiavf7SBLXbq6-6" target="nVx7t4qCiavf7SBLXbq6-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nVx7t4qCiavf7SBLXbq6-6" value="发票开具工单流程" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nVx7t4qCiavf7SBLXbq6-6" value="发票开具工单流程" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="827" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nVx7t4qCiavf7SBLXbq6-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nVx7t4qCiavf7SBLXbq6-9" target="nVx7t4qCiavf7SBLXbq6-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nVx7t4qCiavf7SBLXbq6-9" value="购方确认完成" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nVx7t4qCiavf7SBLXbq6-9" value="购方确认完成" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="560" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nVx7t4qCiavf7SBLXbq6-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nVx7t4qCiavf7SBLXbq6-15" target="nVx7t4qCiavf7SBLXbq6-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nVx7t4qCiavf7SBLXbq6-15" value="6.7数字化电子红字确认单下载&lt;br&gt;已确认" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nVx7t4qCiavf7SBLXbq6-15" value="6.7数字化电子红字确认单下载&lt;br&gt;已确认" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="827" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nVx7t4qCiavf7SBLXbq6-17" value="销售方冲红结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
