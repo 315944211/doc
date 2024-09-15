@@ -150,14 +150,6 @@
         <mxCell id="nVx7t4qCiavf7SBLXbq6-2" value="6.7数字化电子红字确认单申请" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="220" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nVx7t4qCiavf7SBLXbq6-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nVx7t4qCiavf7SBLXbq6-4" target="nVx7t4qCiavf7SBLXbq6-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nVx7t4qCiavf7SBLXbq6-8" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; text-align: justify; font-size: 12pt; text-wrap: wrap;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;无需确认&lt;/font&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nVx7t4qCiavf7SBLXbq6-7">
-          <mxGeometry x="-0.175" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nVx7t4qCiavf7SBLXbq6-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nVx7t4qCiavf7SBLXbq6-4" target="nVx7t4qCiavf7SBLXbq6-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -170,19 +162,42 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nVx7t4qCiavf7SBLXbq6-12" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-bidi-font-family:&#39;Times New Roman&#39;;&#xa;color:rgb(0,0,0);font-size:12.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;销方录入待购方确认&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nVx7t4qCiavf7SBLXbq6-10">
+        <mxCell id="nVx7t4qCiavf7SBLXbq6-12" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;待购方确认&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nVx7t4qCiavf7SBLXbq6-10">
           <mxGeometry x="0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nVx7t4qCiavf7SBLXbq6-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nVx7t4qCiavf7SBLXbq6-4" target="nVx7t4qCiavf7SBLXbq6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nVx7t4qCiavf7SBLXbq6-14" value="无需确认" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nVx7t4qCiavf7SBLXbq6-13">
+          <mxGeometry x="-0.1818" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nVx7t4qCiavf7SBLXbq6-4" value="确认单状态" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="410" y="810" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nVx7t4qCiavf7SBLXbq6-6" value="发票开具工单流程" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="600" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="nVx7t4qCiavf7SBLXbq6-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nVx7t4qCiavf7SBLXbq6-6" target="nVx7t4qCiavf7SBLXbq6-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nVx7t4qCiavf7SBLXbq6-9" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="600" y="930" width="120" height="60" as="geometry" />
+        <mxCell id="nVx7t4qCiavf7SBLXbq6-6" value="发票开具工单流程" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="827" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nVx7t4qCiavf7SBLXbq6-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nVx7t4qCiavf7SBLXbq6-9" target="nVx7t4qCiavf7SBLXbq6-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nVx7t4qCiavf7SBLXbq6-9" value="购方确认完成" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nVx7t4qCiavf7SBLXbq6-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nVx7t4qCiavf7SBLXbq6-15" target="nVx7t4qCiavf7SBLXbq6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nVx7t4qCiavf7SBLXbq6-15" value="6.7数字化电子红字确认单下载&lt;br&gt;已确认" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="827" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nVx7t4qCiavf7SBLXbq6-17" value="销售方冲红结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="820" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
