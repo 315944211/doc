@@ -167,7 +167,7 @@
         <mxCell id="lZ34YeBpeKyjykscTStn-91" value="" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;opacity=10;fillColor=#FF0000;strokeColor=default;dashPattern=1 2;" vertex="1" parent="1">
           <mxGeometry x="790" y="100" width="450" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="lZ34YeBpeKyjykscTStn-94" value="性能优化，参考https://docs.qq.com/mind/DQ3N1R3RMbUpweUdQ?subId=BB08J2&amp;amp;mode=mind 进行相关性能提升&lt;br&gt;1、减少for循环次数 2、减少调用接口次数（addBills&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;br&gt;2、判断是否是集团账户&lt;br&gt;3、日志打印全部删除，里面用了转换json的代码" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="lZ34YeBpeKyjykscTStn-94" value="性能优化，参考https://docs.qq.com/mind/DQ3N1R3RMbUpweUdQ?subId=BB08J2&amp;amp;mode=mind 进行相关性能提升&lt;br&gt;1、减少for循环次数 2、减少调用接口次数（&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;br&gt;2、判断是否是集团账户&lt;br&gt;3、日志打印全部删除，里面用了转换json的代码" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="790" y="560" width="450" height="100" as="geometry" />
         </mxCell>
       </root>
