@@ -161,7 +161,7 @@
         <mxCell id="lZ34YeBpeKyjykscTStn-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="lZ34YeBpeKyjykscTStn-88" target="lZ34YeBpeKyjykscTStn-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lZ34YeBpeKyjykscTStn-88" value="本次账单查询优化账单数据从云详单获取" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="lZ34YeBpeKyjykscTStn-88" value="优化成从云详单获取数据&lt;br&gt;1、按照账户id、账期维度一次性查询出账单数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="60" y="560" width="450" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lZ34YeBpeKyjykscTStn-91" value="" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;opacity=10;fillColor=#FF0000;strokeColor=default;dashPattern=1 2;" vertex="1" parent="1">
