@@ -173,26 +173,47 @@
         <mxCell id="lZ34YeBpeKyjykscTStn-94" value="性能优化，参考https://docs.qq.com/mind/DQ3N1R3RMbUpweUdQ?subId=BB08J2&amp;amp;mode=mind 进行相关性能提升&lt;br&gt;1、减少for循环次数 2、减少调用接口次数（&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;br&gt;2、判断是否是集团账户&lt;br&gt;3、日志打印全部删除，里面用了转换json的代码" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="560" width="450" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ugI50FtEgV0bABx8CJNb-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugI50FtEgV0bABx8CJNb-1" target="ugI50FtEgV0bABx8CJNb-10">
+        <mxCell id="ugI50FtEgV0bABx8CJNb-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugI50FtEgV0bABx8CJNb-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugI50FtEgV0bABx8CJNb-17" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ugI50FtEgV0bABx8CJNb-5">
+          <mxGeometry x="0.6632" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugI50FtEgV0bABx8CJNb-4" value="中国移动app传入手机号码" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="350" y="700" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ugI50FtEgV0bABx8CJNb-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugI50FtEgV0bABx8CJNb-14" target="ugI50FtEgV0bABx8CJNb-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ugI50FtEgV0bABx8CJNb-1" value="客户化账单查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="850" width="120" height="60" as="geometry" />
+        <mxCell id="ugI50FtEgV0bABx8CJNb-21" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ugI50FtEgV0bABx8CJNb-19">
+          <mxGeometry x="0.3182" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ugI50FtEgV0bABx8CJNb-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugI50FtEgV0bABx8CJNb-4" target="ugI50FtEgV0bABx8CJNb-1">
+        <mxCell id="ugI50FtEgV0bABx8CJNb-14" value="是否有和手机号码合账宽带" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="360" y="790" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ugI50FtEgV0bABx8CJNb-15" value="" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;opacity=10;fillColor=#FF0000;strokeColor=default;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="800" y="110" width="450" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ugI50FtEgV0bABx8CJNb-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugI50FtEgV0bABx8CJNb-16" target="ugI50FtEgV0bABx8CJNb-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ugI50FtEgV0bABx8CJNb-4" value="个人用户" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="620" y="740" width="100" height="60" as="geometry" />
+        <mxCell id="ugI50FtEgV0bABx8CJNb-16" value="宽带用户客户化账单（宽带用户账单7大项）" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="340" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ugI50FtEgV0bABx8CJNb-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugI50FtEgV0bABx8CJNb-8" target="ugI50FtEgV0bABx8CJNb-1">
+        <mxCell id="ugI50FtEgV0bABx8CJNb-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugI50FtEgV0bABx8CJNb-18" target="ugI50FtEgV0bABx8CJNb-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ugI50FtEgV0bABx8CJNb-8" value="宽带用户" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="790" y="850" width="100" height="60" as="geometry" />
+        <mxCell id="ugI50FtEgV0bABx8CJNb-18" value="个人用户客户化账单（个人用户账单7大项）" style="whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;strokeWidth=2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="510" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ugI50FtEgV0bABx8CJNb-10" value="账单组装" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="950" width="120" height="60" as="geometry" />
+        <mxCell id="ugI50FtEgV0bABx8CJNb-22" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="680" y="920" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
