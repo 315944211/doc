@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net">
+    <diagram name="物资智能决策系统" id="Ux9uqJtPmJx1QKtJX4r5">
+        <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <!-- 基础样式定义 -->
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                
+                <!-- 入口节点 -->
+                <mxCell id="entry" value="物资全生命周期入口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD700;strokeColor=#333333;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="40" width="160" height="60"/>
+                </mxCell>
+                
+                <!-- 决策分支 -->
+                <mxCell id="branch" value="业务类型判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="140" width="80" height="80"/>
+                </mxCell>
+                <mxCell id="link1" source="entry" target="branch" style="edgeStyle=none;curved=1;endArrow=classic;" edge="1" parent="1"/>
+                
+                <!-- 四大模块容器 -->
+                <mxCell id="module1" value="物资决策" style="swimlane;whiteSpace=wrap;html=1;fillColor=#E6F2FF;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="260" width="200" height="300"/>
+                </mxCell>
+                <mxCell id="module2" value="逆向评估" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFEBE6;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="260" width="200" height="300"/>
+                </mxCell>
+                <mxCell id="module3" value="缺陷管理" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF0E6;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="260" width="200" height="300"/>
+                </mxCell>
+                <mxCell id="module4" value="价格决策" style="swimlane;whiteSpace=wrap;html=1;fillColor=#E6FFED;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="600" width="200" height="300"/>
+                </mxCell>
+                
+                <!-- 模块间连接线 -->
+                <mxCell id="conn1" source="branch" target="module1" value="新物资采购" style="edgeStyle=none;curved=1;endArrow=classic;entryX=0.5;entryY=0;exitX=0.25;exitY=1;" edge="1" parent="1">
+                    <mxGeometry relative="1"/>
+                </mxCell>
+                <mxCell id="conn2" source="branch" target="module2" value="逆向物资处理" style="edgeStyle=none;curved=1;endArrow=classic;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" edge="1" parent="1">
+                    <mxGeometry relative="1"/>
+                </mxCell>
+                <mxCell id="conn3" source="branch" target="module3" value="缺陷事件触发" style="edgeStyle=none;curved=1;endArrow=classic;entryX=0.5;entryY=0;exitX=0.75;exitY=1;" edge="1" parent="1">
+                    <mxGeometry relative="1"/>
+                </mxCell>
+                <mxCell id="conn4" source="branch" target="module4" value="价格变动请求" style="edgeStyle=none;curved=1;endArrow=classic;dashed=1;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" edge="1" parent="1">
+                    <mxGeometry relative="1"/>
+                </mxCell>
+                
+                <!-- 模块1内部流程 -->
+                <mxCell id="m1_step1" value="需求合理性分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E6FF;" vertex="1" parent="module1">
+                    <mxGeometry x="30" y="40" width="140" height="60"/>
+                </mxCell>
+                <mxCell id="m1_step2" value="生成采购方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E6FF;" vertex="1" parent="module1">
+                    <mxGeometry x="30" y="120" width="140" height="60"/>
+                </mxCell>
+                <mxCell id="m1_decision" value="自动审批" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="module1">
+                    <mxGeometry x="60" y="200" width="80" height="80"/>
+                </mxCell>
+                <mxCell id="m1_link1" source="m1_step1" target="m1_step2" style="edgeStyle=none;endArrow=classic;" edge="1" parent="module1"/>
+                <mxCell id="m1_link2" source="m1_step2" target="m1_decision" style="edgeStyle=none;endArrow=classic;" edge="1" parent="module1"/>
+                
+                <!-- 数据回流 -->
+                <mxCell id="datahub" value="数据中台" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E1D5E7;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="600" width="120" height="80"/>
+                </mxCell>
+                <mxCell id="feedback1" source="module1" target="datahub" value="采购记录" style="edgeStyle=none;curved=1;endArrow=classic;strokeColor=#9370DB;dashed=1;" edge="1" parent="1">
+                    <mxGeometry relative="1"/>
+                </mxCell>
+                
+                <!-- 输出节点 -->
+                <mxCell id="output" value="管理驾驶舱" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9370DB;strokeColor=#333333;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="650" width="160" height="60"/>
+                </mxCell>
+                <mxCell id="output_conn" source="datahub" target="output" style="edgeStyle=none;endArrow=classic;strokeColor=#9370DB;" edge="1" parent="1"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
