@@ -169,14 +169,18 @@
         <mxCell id="lZ34YeBpeKyjykscTStn-88" value="优化成从云详单获取数据&lt;br&gt;1、按照账户id、账期维度一次性查询出账户账单数据&lt;br&gt;2、根据用户id、账期维度一次查询出用户账单" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="560" width="450" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="lZ34YeBpeKyjykscTStn-91" value="" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;opacity=10;fillColor=#FF0000;strokeColor=default;dashPattern=1 2;" parent="1" vertex="1">
-          <mxGeometry x="790" y="100" width="450" height="440" as="geometry" />
+        <mxCell id="lZ34YeBpeKyjykscTStn-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="lZ34YeBpeKyjykscTStn-94" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1015" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="lZ34YeBpeKyjykscTStn-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="lZ34YeBpeKyjykscTStn-94" target="lZ34YeBpeKyjykscTStn-91" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vBIqcvO87VJ7bbSk8ED3-19" value="现网已经完成优化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lZ34YeBpeKyjykscTStn-95">
+          <mxGeometry x="-0.0619" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="lZ34YeBpeKyjykscTStn-94" value="性能优化，参考https://docs.qq.com/mind/DQ3N1R3RMbUpweUdQ?subId=BB08J2&amp;amp;mode=mind 进行相关性能提升&lt;br&gt;1、减少for循环次数 2、减少调用接口次数（&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;br&gt;2、判断是否是集团账户&lt;br&gt;3、日志打印全部删除，里面用了转换json的代码" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="560" width="450" height="100" as="geometry" />
+        <mxCell id="lZ34YeBpeKyjykscTStn-94" value="性能优化，参考https://docs.qq.com/mind/DQ3N1R3RMbUpweUdQ?subId=BB08J2&amp;amp;mode=mind 进行相关性能提升&lt;br&gt;1、减少for循环次数 2、减少调用接口次数（&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;br&gt;2、判断是否是集团账户&lt;br&gt;3、日志打印全部删除，里面用了转换json的代码" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#a0522d;strokeColor=#6D1F00;dashed=1;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="800" y="560" width="450" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ugI50FtEgV0bABx8CJNb-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ugI50FtEgV0bABx8CJNb-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -203,7 +207,7 @@
           <mxGeometry x="360" y="790" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ugI50FtEgV0bABx8CJNb-15" value="" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;opacity=10;fillColor=#FF0000;strokeColor=default;dashPattern=1 2;" parent="1" vertex="1">
-          <mxGeometry x="800" y="110" width="450" height="440" as="geometry" />
+          <mxGeometry x="800" y="100" width="450" height="440" as="geometry" />
         </mxCell>
         <mxCell id="ugI50FtEgV0bABx8CJNb-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ugI50FtEgV0bABx8CJNb-16" target="ugI50FtEgV0bABx8CJNb-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
