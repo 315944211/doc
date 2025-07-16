@@ -157,7 +157,7 @@
           <mxGeometry x="640" y="410" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VvJMJaU7SE6beF8pdY5j-57" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;子路由器&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="475" width="100" height="50" as="geometry" />
+          <mxGeometry x="590" y="510" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VvJMJaU7SE6beF8pdY5j-64" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;弱电箱&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;shadow=1;opacity=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="100" y="252" width="350" height="128" as="geometry" />
@@ -171,14 +171,17 @@
         <mxCell id="VvJMJaU7SE6beF8pdY5j-78" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;阳台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;shadow=1;opacity=50;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="300" y="100" width="140" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="VvJMJaU7SE6beF8pdY5j-79" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;主卧&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;shadow=1;opacity=50;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="VvJMJaU7SE6beF8pdY5j-79" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 主卧&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;shadow=1;opacity=50;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="570" y="134" width="170" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="VvJMJaU7SE6beF8pdY5j-80" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;客卧&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;shadow=1;opacity=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="VvJMJaU7SE6beF8pdY5j-80" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 客卧&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;shadow=1;opacity=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="570" y="250" width="170" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="VvJMJaU7SE6beF8pdY5j-81" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;客卧&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;shadow=1;opacity=50;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="VvJMJaU7SE6beF8pdY5j-81" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 儿童房&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;shadow=1;opacity=50;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="570" y="362" width="170" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="VvJMJaU7SE6beF8pdY5j-82" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 老人房&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;shadow=1;opacity=50;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="570" y="466" width="170" height="96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
