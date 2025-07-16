@@ -184,10 +184,26 @@
           <mxGeometry x="570" y="466" width="170" height="96" as="geometry" />
         </mxCell>
         <mxCell id="VvJMJaU7SE6beF8pdY5j-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#FF3333;" edge="1" parent="1" source="VvJMJaU7SE6beF8pdY5j-83" target="VvJMJaU7SE6beF8pdY5j-81">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="410" />
+              <mxPoint x="760" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VvJMJaU7SE6beF8pdY5j-83" value="网线先布，看情况是否增加子路由器" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VvJMJaU7SE6beF8pdY5j-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d80073;strokeColor=#A50040;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="VvJMJaU7SE6beF8pdY5j-86" target="VvJMJaU7SE6beF8pdY5j-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="514" />
+              <mxPoint x="770" y="514" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VvJMJaU7SE6beF8pdY5j-86" value="网线先布，看情况是否增加子路由器" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="474" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
