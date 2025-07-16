@@ -183,6 +183,12 @@
         <mxCell id="VvJMJaU7SE6beF8pdY5j-82" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 老人房&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;shadow=1;opacity=50;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="570" y="466" width="170" height="96" as="geometry" />
         </mxCell>
+        <mxCell id="VvJMJaU7SE6beF8pdY5j-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VvJMJaU7SE6beF8pdY5j-83" target="VvJMJaU7SE6beF8pdY5j-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VvJMJaU7SE6beF8pdY5j-83" value="网线先布，看情况是否增加子路由器" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
