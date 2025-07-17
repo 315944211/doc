@@ -134,19 +134,29 @@
         <mxCell id="VvJMJaU7SE6beF8pdY5j-82" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt; &amp;nbsp;老人&lt;/font&gt;房&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;shadow=1;opacity=50;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="550" y="482" width="170" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="oKDvLYcAPBOX1ie08TMy-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VvJMJaU7SE6beF8pdY5j-83" target="VvJMJaU7SE6beF8pdY5j-81">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oKDvLYcAPBOX1ie08TMy-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="VvJMJaU7SE6beF8pdY5j-83" target="VvJMJaU7SE6beF8pdY5j-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="420" />
+              <mxPoint x="760" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VvJMJaU7SE6beF8pdY5j-83" value="网线先布，看网速情况是否增加子路由器" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="378" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oKDvLYcAPBOX1ie08TMy-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VvJMJaU7SE6beF8pdY5j-86" target="VvJMJaU7SE6beF8pdY5j-82">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oKDvLYcAPBOX1ie08TMy-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="VvJMJaU7SE6beF8pdY5j-86" target="VvJMJaU7SE6beF8pdY5j-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="530" />
+              <mxPoint x="760" y="530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VvJMJaU7SE6beF8pdY5j-86" value="网线先布，看网速情况是否增加子路由器" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="490" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oKDvLYcAPBOX1ie08TMy-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VvJMJaU7SE6beF8pdY5j-88" target="VvJMJaU7SE6beF8pdY5j-80">
+        <mxCell id="oKDvLYcAPBOX1ie08TMy-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="VvJMJaU7SE6beF8pdY5j-88" target="VvJMJaU7SE6beF8pdY5j-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VvJMJaU7SE6beF8pdY5j-88" value="网线先布，看网速情况是否增加子路由器" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;dashed=1;" parent="1" vertex="1">
